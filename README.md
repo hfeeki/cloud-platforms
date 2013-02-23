@@ -67,6 +67,6 @@ Pagoda: http://www.pagodabox.com/
 Wiyun: http://www.wiyun.com/index.php  
 Appcan: http://www.appcan.cn/  
 Bizapp: http://www.bizapp.com/app/app_index.do  like salesforce  
-
+CloudBees: http://www.cloudbees.com/  The Java PaaS Company but support php/nodejs/ruby, etc.
 
 
