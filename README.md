@@ -64,4 +64,9 @@ Dotcloud:  http://www.dotcloud.com/
            https://github.com/dotcloud   
 Flow: http://app.getflow.com  MATLAB公司开发  
 Pagoda: http://www.pagodabox.com/ 
+Wiyun: http://www.wiyun.com/index.php  
+Appcan: http://www.appcan.cn/  
+Bizapp: http://www.bizapp.com/app/app_index.do  like salesforce  
+
+
 
