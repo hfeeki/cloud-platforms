@@ -6,6 +6,8 @@ Some of cloud platforms, include IaaS, PaaS.
 Engine Yard: http://www.engineyard.com/ Oracle有战略投资于这家公司。只支持ruby, php, nodejs.  
 Heroku: http://www.heroku.com 支持php, ruby, python, java, nodejs，支持console, web panel等。  
 OpenRuko: OpenRuko is an open source Heroku clone.  
+          https://github.com/openruko  
+          
 OpenShift:  
 Cloudfoundry: PaaS for java, ruby, python, nodejs  
 CloudControl: PaaS  
