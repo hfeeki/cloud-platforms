@@ -67,9 +67,9 @@ Pagoda: http://www.pagodabox.com/
 Wiyun: http://www.wiyun.com/index.php  
 Appcan: http://www.appcan.cn/  
 Bizapp: http://www.bizapp.com/app/app_index.do  like salesforce  
-CloudBees: http://www.cloudbees.com/  The Java PaaS Company but support php/nodejs/ruby, etc.
-800app: http://www.800app.com/  
-AppHarbor: .net platform's PaaS
+CloudBees: http://www.cloudbees.com/  The Java PaaS Company but support php/nodejs/ruby, etc.  
+800app: http://www.800app.com/    
+AppHarbor: .net platform's PaaS  
 IronIO: http://iron.io 应该算作是SaaS, 但是提供的三个服务都很基础(ironmq, ironworker, ironcache), 很有特色  
 
 
