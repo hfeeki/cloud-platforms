@@ -73,7 +73,9 @@ CloudBees: http://www.cloudbees.com/  The Java PaaS Company but support php/node
 800app: http://www.800app.com/    
 AppHarbor: .net platform's PaaS  
 IronIO: http://iron.io 应该算作是SaaS, 但是提供的三个服务都很基础(ironmq, ironworker, ironcache), 很有特色  
-NuDB: http://www.nuodb.com/  The Elastically Scalable Cloud Database   
+NuDB: http://www.nuodb.com/  The Elastically Scalable Cloud Database     
+CKAN: http://ckan.org  a powerful data management system that makes data accessible   
+    https://github.com/okfn/ckan.git
 
 
 
