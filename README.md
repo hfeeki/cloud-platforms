@@ -79,4 +79,10 @@ CKAN: http://ckan.org  a powerful data management system that makes data accessi
 
 
 
+Cloud Services
+==============
+StatHat: https://www.stathat.com/     
+         https://github.com/stathat   
+         
+         
 
