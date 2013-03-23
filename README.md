@@ -10,7 +10,8 @@ Some of cloud platforms, include IaaS, PaaS.
 # [OpenRuko](https://github.com/openruko)
           OpenRuko is an open source Heroku clone.  
           
-# [OpenShift] 
+# [OpenShift](https://www.openshift.com/)
+          Redhat's PaaS
 # Cloudfoundry
           PaaS for java, ruby, python, nodejs  
 # CloudControl
