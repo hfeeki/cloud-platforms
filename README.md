@@ -1,4 +1,4 @@
-cloud-platforms
+Cloud Platforms
 ===============
 
 Some of cloud platforms, include IaaS, PaaS.   
