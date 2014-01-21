@@ -97,6 +97,24 @@ Some of cloud platforms, include IaaS, PaaS.
 	- Metacloud一家新的OpenStack Start-up，去年刚刚拿到雅虎创始人杨致远的投资，之前的理解是看上去也是做服务，但与Mirantis等有什么差异化，与沟通之后终于明白了，他不是卖OS咨询、部署、培训等一次性服务，而是Managed Service，就是帮客户运维OS生产环境，包括监控、升级、安全等等，目标是保证你的OpenStack云计算不出问题，商业模式就是按月收订阅费。之前在微博上提到，这种模式在中国走不通，其实在中国还真有这么一家公司，叫ChinaNetCloud，是由两个老外2008年在中国成立，也做得很有诚意，国内不少游戏就是他们的客户，帮客户运维服务器，但最近听到消息是运营状态不太好，可能跟国内互联网游戏产商的习惯有关，宁愿雇一帮人来运维也舍不得出那点服务费用。
 * [RedHat]()
 * [Nicira]()
+* 
+
+Docker based cloud tools 
+=========================
+  * [flynn](http://flynn.io)
+  * [deis](http://dies.io)
+    Deis is a Heroku-inspired application platform built with a Django/Celery API server, Python CLI and set of Chef cookbooks. 
+  * [coreos]()
+  * [maestro]()
+  * [Docker Openstack](https://wiki.openstack.org/wiki/Docker)
+  * [Paas zone within OpenStack]()
+  * [Dokku]()
+  * [Shipyard](https://github.com/cloud-school/shipyard)
+  * [Cocaine]()
+  * [Hipache](https://github.com/dotcloud/hipache)
+  * [AppScale](http://www.appscale.com/)
+  * 
+  
 
 * YOYO system
 	- 友友系统基于自主研发的云计算核心技术，已开发出涵盖云计算操作系统、服务平台、企业级应用及客户端应用服务的系列产品。业已形成一个平台，两条产品线，三项核心技术的产品体系架构，并成功将这些产品应用于通信、能源、政府、数字媒体在内的四大领域，获得市场的认可和业内同行的尊重。
