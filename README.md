@@ -104,11 +104,11 @@ Docker based cloud tools
   * [flynn](http://flynn.io)
   * [deis](http://dies.io)
     Deis is a Heroku-inspired application platform built with a Django/Celery API server, Python CLI and set of Chef cookbooks. 
-  * [coreos]()
+  * [coreos](http://coreos.com/)
   * [maestro]()
   * [Docker Openstack](https://wiki.openstack.org/wiki/Docker)
   * [Paas zone within OpenStack]()
-  * [Dokku]()
+  * [Dokku](https://github.com/progrium/dokku)
   * [Shipyard](https://github.com/cloud-school/shipyard)
   * [Cocaine]()
   * [Hipache](https://github.com/dotcloud/hipache)
